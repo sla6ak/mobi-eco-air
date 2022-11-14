@@ -1,9 +1,8 @@
-import { Flex } from "@react-native-material/core";
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   title: {
-    color: "#00459e",
+    color: "#00224e",
     fontSize: 30,
     fontWeight: "800",
   },
